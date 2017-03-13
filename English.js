@@ -17,7 +17,6 @@
 // www.bloggerplugins.org
 // Date : 02-08-2011
 // global arrays
-//تعريب: عالم التكنولوجيا والاستثمار
 //www.techandinv.com
 
    var postTitle = new Array();     // array of posttitles
